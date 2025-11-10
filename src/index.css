@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container-max { @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8; }
+.section { @apply container-max py-8 sm:py-10; }
+.section-title { @apply text-xl font-semibold mb-4; }
+.badge { @apply inline-flex items-center rounded-full bg-gray-100 text-gray-700 text-xs px-2 py-0.5; }
+.card { @apply bg-white border rounded-lg p-3 shadow-sm hover:shadow transition; }

@@ -1,0 +1,4504 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Pro Gaming Mouse",
+      "price": 451.68,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=1",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 2,
+      "title": "Mechanical Keyboard",
+      "price": 414.72,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=2",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 3,
+      "title": "Pro Gaming Mouse",
+      "price": 269.5,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=3",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 4,
+      "title": "VR Headset",
+      "price": 317.05,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=4",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 5,
+      "title": "VR Headset",
+      "price": 268.13,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=5",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 6,
+      "title": "Racing Wheel",
+      "price": 461.52,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=6",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 7,
+      "title": "4K Gaming Monitor",
+      "price": 187.39,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=7",
+      "category": "Gaming",
+      "desc": "Lumbar support, 4D armrests"
+    },
+    {
+      "id": 8,
+      "title": "Gaming Chair",
+      "price": 81.87,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=8",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 9,
+      "title": "Gaming Chair",
+      "price": 179.78,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=9",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 10,
+      "title": "RGB Headset Stand",
+      "price": 100.15,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=10",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 11,
+      "title": "Pro Gaming Mouse",
+      "price": 196.11,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=11",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 12,
+      "title": "Gaming Chair",
+      "price": 138.6,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=12",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 13,
+      "title": "VR Headset",
+      "price": 590.58,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=13",
+      "category": "Gaming",
+      "desc": "Force feedback, metal pedals"
+    },
+    {
+      "id": 14,
+      "title": "Pro Gaming Mouse",
+      "price": 187.44,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=14",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 15,
+      "title": "Gaming Chair",
+      "price": 240.0,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=15",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 16,
+      "title": "Racing Wheel",
+      "price": 376.2,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=16",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 17,
+      "title": "VR Headset",
+      "price": 292.49,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=17",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 18,
+      "title": "Streaming Mic",
+      "price": 419.23,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=18",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 19,
+      "title": "Xbox Controller",
+      "price": 497.43,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=19",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 20,
+      "title": "4K Gaming Monitor",
+      "price": 66.73,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=20",
+      "category": "Gaming",
+      "desc": "Force feedback, metal pedals"
+    },
+    {
+      "id": 21,
+      "title": "Capture Card",
+      "price": 150.2,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=21",
+      "category": "Gaming",
+      "desc": "Lumbar support, 4D armrests"
+    },
+    {
+      "id": 22,
+      "title": "RGB Headset Stand",
+      "price": 179.98,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=22",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 23,
+      "title": "Streaming Mic",
+      "price": 178.76,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=23",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 24,
+      "title": "Capture Card",
+      "price": 235.34,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=24",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 25,
+      "title": "Mechanical Keyboard",
+      "price": 310.3,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=25",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 26,
+      "title": "Pro Gaming Mouse",
+      "price": 386.64,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=26",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 27,
+      "title": "4K Gaming Monitor",
+      "price": 65.21,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=27",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 28,
+      "title": "RGB Headset Stand",
+      "price": 172.31,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=28",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 29,
+      "title": "Xbox Controller",
+      "price": 417.57,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=29",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 30,
+      "title": "Racing Wheel",
+      "price": 92.58,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=30",
+      "category": "Gaming",
+      "desc": "Lumbar support, 4D armrests"
+    },
+    {
+      "id": 31,
+      "title": "RGB Headset Stand",
+      "price": 572.68,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=31",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 32,
+      "title": "Racing Wheel",
+      "price": 463.32,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=32",
+      "category": "Gaming",
+      "desc": "Cardioid pattern, tap-to-mute"
+    },
+    {
+      "id": 33,
+      "title": "Pro Gaming Mouse",
+      "price": 508.75,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=33",
+      "category": "Gaming",
+      "desc": "Force feedback, metal pedals"
+    },
+    {
+      "id": 34,
+      "title": "VR Headset",
+      "price": 242.13,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=34",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 35,
+      "title": "Streaming Mic",
+      "price": 370.4,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=35",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 36,
+      "title": "Pro Gaming Mouse",
+      "price": 529.87,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=36",
+      "category": "Gaming",
+      "desc": "Lumbar support, 4D armrests"
+    },
+    {
+      "id": 37,
+      "title": "Racing Wheel",
+      "price": 62.02,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=37",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 38,
+      "title": "Pro Gaming Mouse",
+      "price": 446.19,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=38",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 39,
+      "title": "Streaming Mic",
+      "price": 102.18,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=39",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 40,
+      "title": "Streaming Mic",
+      "price": 180.08,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=40",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 41,
+      "title": "4K Gaming Monitor",
+      "price": 558.48,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=41",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 42,
+      "title": "VR Headset",
+      "price": 256.43,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=42",
+      "category": "Gaming",
+      "desc": "Force feedback, metal pedals"
+    },
+    {
+      "id": 43,
+      "title": "Gaming Chair",
+      "price": 541.78,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=43",
+      "category": "Gaming",
+      "desc": "USB-powered, addressable RGB"
+    },
+    {
+      "id": 44,
+      "title": "VR Headset",
+      "price": 65.49,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=44",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 45,
+      "title": "Streaming Mic",
+      "price": 364.41,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=45",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 46,
+      "title": "Xbox Controller",
+      "price": 67.42,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=46",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 47,
+      "title": "Gaming Chair",
+      "price": 322.07,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=47",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 48,
+      "title": "RGB Headset Stand",
+      "price": 336.36,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=48",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 49,
+      "title": "Capture Card",
+      "price": 298.42,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=49",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 50,
+      "title": "4K Gaming Monitor",
+      "price": 82.77,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=50",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 51,
+      "title": "Gaming Chair",
+      "price": 263.33,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=51",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 52,
+      "title": "Xbox Controller",
+      "price": 63.55,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=52",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 53,
+      "title": "Pro Gaming Mouse",
+      "price": 138.21,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=53",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 54,
+      "title": "Mechanical Keyboard",
+      "price": 133.59,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=54",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 55,
+      "title": "Pro Gaming Mouse",
+      "price": 489.57,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=55",
+      "category": "Gaming",
+      "desc": "USB-powered, addressable RGB"
+    },
+    {
+      "id": 56,
+      "title": "Pro Gaming Mouse",
+      "price": 400.72,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=56",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 57,
+      "title": "Xbox Controller",
+      "price": 557.03,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=57",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 58,
+      "title": "Mechanical Keyboard",
+      "price": 305.82,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=58",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 59,
+      "title": "4K Gaming Monitor",
+      "price": 122.84,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=59",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 60,
+      "title": "4K Gaming Monitor",
+      "price": 557.12,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=60",
+      "category": "Gaming",
+      "desc": "Force feedback, metal pedals"
+    },
+    {
+      "id": 61,
+      "title": "Racing Wheel",
+      "price": 426.06,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=61",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 62,
+      "title": "Streaming Mic",
+      "price": 117.23,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=62",
+      "category": "Gaming",
+      "desc": "USB-powered, addressable RGB"
+    },
+    {
+      "id": 63,
+      "title": "Xbox Controller",
+      "price": 448.37,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=63",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 64,
+      "title": "Gaming Chair",
+      "price": 57.58,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=64",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 65,
+      "title": "Streaming Mic",
+      "price": 61.42,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=65",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 66,
+      "title": "Mechanical Keyboard",
+      "price": 368.17,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=66",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 67,
+      "title": "VR Headset",
+      "price": 97.34,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=67",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 68,
+      "title": "VR Headset",
+      "price": 367.88,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=68",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 69,
+      "title": "4K Gaming Monitor",
+      "price": 351.18,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=69",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 70,
+      "title": "Racing Wheel",
+      "price": 410.74,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=70",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 71,
+      "title": "Racing Wheel",
+      "price": 103.6,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=71",
+      "category": "Gaming",
+      "desc": "144Hz HDR panel, 1ms response"
+    },
+    {
+      "id": 72,
+      "title": "RGB Headset Stand",
+      "price": 558.54,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=72",
+      "category": "Gaming",
+      "desc": "Lumbar support, 4D armrests"
+    },
+    {
+      "id": 73,
+      "title": "Xbox Controller",
+      "price": 383.06,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=73",
+      "category": "Gaming",
+      "desc": "USB-powered, addressable RGB"
+    },
+    {
+      "id": 74,
+      "title": "Pro Gaming Mouse",
+      "price": 335.45,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=74",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 75,
+      "title": "Mechanical Keyboard",
+      "price": 531.09,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=75",
+      "category": "Gaming",
+      "desc": "Lumbar support, 4D armrests"
+    },
+    {
+      "id": 76,
+      "title": "Gaming Chair",
+      "price": 118.92,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=76",
+      "category": "Gaming",
+      "desc": "Force feedback, metal pedals"
+    },
+    {
+      "id": 77,
+      "title": "Racing Wheel",
+      "price": 589.8,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=77",
+      "category": "Gaming",
+      "desc": "4K60 passthrough, H.265 encoding"
+    },
+    {
+      "id": 78,
+      "title": "Streaming Mic",
+      "price": 409.68,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=78",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 79,
+      "title": "Pro Gaming Mouse",
+      "price": 179.75,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=79",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 80,
+      "title": "Streaming Mic",
+      "price": 184.24,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=80",
+      "category": "Gaming",
+      "desc": "Hot-swappable switches, per-key RGB"
+    },
+    {
+      "id": 81,
+      "title": "Gaming Chair",
+      "price": 420.87,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=81",
+      "category": "Gaming",
+      "desc": "Inside-out tracking, 90Hz display"
+    },
+    {
+      "id": 82,
+      "title": "Streaming Mic",
+      "price": 172.14,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=82",
+      "category": "Gaming",
+      "desc": "USB-powered, addressable RGB"
+    },
+    {
+      "id": 83,
+      "title": "Xbox Controller",
+      "price": 390.54,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=83",
+      "category": "Gaming",
+      "desc": "Adjustable DPI, PTFE feet"
+    },
+    {
+      "id": 84,
+      "title": "Xbox Controller",
+      "price": 219.13,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?gaming,controller&sig=84",
+      "category": "Gaming",
+      "desc": "Ergonomic grip, low-latency wireless"
+    },
+    {
+      "id": 85,
+      "title": "DAC & Amp",
+      "price": 598.71,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=85",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 86,
+      "title": "Portable Recorder",
+      "price": 32.48,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=86",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 87,
+      "title": "Studio Microphone",
+      "price": 52.89,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=87",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 88,
+      "title": "Smart Speaker",
+      "price": 357.65,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=88",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 89,
+      "title": "Soundbar",
+      "price": 720.77,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=89",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 90,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 298.75,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=90",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 91,
+      "title": "Portable Recorder",
+      "price": 605.1,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=91",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 92,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 780.58,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=92",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 93,
+      "title": "Portable Recorder",
+      "price": 163.83,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=93",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 94,
+      "title": "Portable Recorder",
+      "price": 231.51,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=94",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 95,
+      "title": "Bluetooth Speaker",
+      "price": 700.06,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=95",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 96,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 657.04,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=96",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 97,
+      "title": "DAC & Amp",
+      "price": 197.54,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=97",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 98,
+      "title": "Portable Recorder",
+      "price": 240.64,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=98",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 99,
+      "title": "DAC & Amp",
+      "price": 521.51,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=99",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 100,
+      "title": "Smart Speaker",
+      "price": 751.97,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=100",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 101,
+      "title": "DAC & Amp",
+      "price": 474.38,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=101",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 102,
+      "title": "Wireless Headphones",
+      "price": 486.75,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=102",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 103,
+      "title": "Soundbar",
+      "price": 494.21,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=103",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 104,
+      "title": "Portable Recorder",
+      "price": 172.12,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=104",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 105,
+      "title": "Portable Recorder",
+      "price": 427.42,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=105",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 106,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 358.82,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=106",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 107,
+      "title": "Soundbar",
+      "price": 267.97,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=107",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 108,
+      "title": "DAC & Amp",
+      "price": 264.39,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=108",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 109,
+      "title": "Portable Recorder",
+      "price": 454.12,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=109",
+      "category": "Audio",
+      "desc": "32-bit processing, low noise"
+    },
+    {
+      "id": 110,
+      "title": "Portable Recorder",
+      "price": 501.41,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=110",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 111,
+      "title": "Smart Speaker",
+      "price": 260.2,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=111",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 112,
+      "title": "Podcast Mic",
+      "price": 531.74,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=112",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 113,
+      "title": "DJ Headphones",
+      "price": 420.65,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=113",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 114,
+      "title": "Studio Microphone",
+      "price": 244.65,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=114",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 115,
+      "title": "Podcast Mic",
+      "price": 97.28,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=115",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 116,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 198.87,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=116",
+      "category": "Audio",
+      "desc": "32-bit processing, low noise"
+    },
+    {
+      "id": 117,
+      "title": "Wireless Headphones",
+      "price": 214.51,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=117",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 118,
+      "title": "Bluetooth Speaker",
+      "price": 345.78,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=118",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 119,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 407.65,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=119",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 120,
+      "title": "Wireless Headphones",
+      "price": 627.5,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=120",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 121,
+      "title": "Smart Speaker",
+      "price": 63.87,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=121",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 122,
+      "title": "Bluetooth Speaker",
+      "price": 128.2,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=122",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 123,
+      "title": "Smart Speaker",
+      "price": 485.88,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=123",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 124,
+      "title": "DJ Headphones",
+      "price": 655.82,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=124",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 125,
+      "title": "Portable Recorder",
+      "price": 370.14,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=125",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 126,
+      "title": "DJ Headphones",
+      "price": 225.61,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=126",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 127,
+      "title": "DAC & Amp",
+      "price": 400.08,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=127",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 128,
+      "title": "DJ Headphones",
+      "price": 577.28,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=128",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 129,
+      "title": "Soundbar",
+      "price": 716.2,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=129",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 130,
+      "title": "Studio Microphone",
+      "price": 321.47,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=130",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 131,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 346.11,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=131",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 132,
+      "title": "DJ Headphones",
+      "price": 73.19,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=132",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 133,
+      "title": "Portable Recorder",
+      "price": 757.25,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=133",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 134,
+      "title": "Podcast Mic",
+      "price": 394.18,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=134",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 135,
+      "title": "DAC & Amp",
+      "price": 685.57,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=135",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 136,
+      "title": "Portable Recorder",
+      "price": 603.58,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=136",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 137,
+      "title": "Podcast Mic",
+      "price": 402.89,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=137",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 138,
+      "title": "DJ Headphones",
+      "price": 325.98,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=138",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 139,
+      "title": "Portable Recorder",
+      "price": 675.55,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=139",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 140,
+      "title": "Podcast Mic",
+      "price": 45.87,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=140",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 141,
+      "title": "Podcast Mic",
+      "price": 89.98,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=141",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 142,
+      "title": "DJ Headphones",
+      "price": 63.92,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=142",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 143,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 277.98,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=143",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 144,
+      "title": "Portable Recorder",
+      "price": 607.06,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=144",
+      "category": "Audio",
+      "desc": "32-bit processing, low noise"
+    },
+    {
+      "id": 145,
+      "title": "DAC & Amp",
+      "price": 389.02,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=145",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 146,
+      "title": "Wireless Headphones",
+      "price": 198.55,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=146",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 147,
+      "title": "Wireless Headphones",
+      "price": 760.0,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=147",
+      "category": "Audio",
+      "desc": "Over-ear, ANC, 30h battery"
+    },
+    {
+      "id": 148,
+      "title": "Wireless Headphones",
+      "price": 142.94,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=148",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 149,
+      "title": "Bluetooth Speaker",
+      "price": 758.56,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=149",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 150,
+      "title": "DAC & Amp",
+      "price": 154.87,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=150",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 151,
+      "title": "Bluetooth Speaker",
+      "price": 771.69,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=151",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 152,
+      "title": "Wireless Headphones",
+      "price": 470.67,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=152",
+      "category": "Audio",
+      "desc": "32-bit processing, low noise"
+    },
+    {
+      "id": 153,
+      "title": "Portable Recorder",
+      "price": 753.7,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=153",
+      "category": "Audio",
+      "desc": "Dual-mic, 24-bit recording"
+    },
+    {
+      "id": 154,
+      "title": "Podcast Mic",
+      "price": 103.87,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=154",
+      "category": "Audio",
+      "desc": "Transparency mode, fast pairing"
+    },
+    {
+      "id": 155,
+      "title": "Podcast Mic",
+      "price": 641.28,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=155",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 156,
+      "title": "Wireless Headphones",
+      "price": 437.34,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=156",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 157,
+      "title": "Bluetooth Speaker",
+      "price": 526.2,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=157",
+      "category": "Audio",
+      "desc": "Voice assistant built-in"
+    },
+    {
+      "id": 158,
+      "title": "Portable Recorder",
+      "price": 106.69,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=158",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 159,
+      "title": "DJ Headphones",
+      "price": 362.07,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=159",
+      "category": "Audio",
+      "desc": "XLR output, low self-noise"
+    },
+    {
+      "id": 160,
+      "title": "DAC & Amp",
+      "price": 650.55,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=160",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 161,
+      "title": "DJ Headphones",
+      "price": 362.13,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=161",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 162,
+      "title": "DAC & Amp",
+      "price": 684.23,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=162",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 163,
+      "title": "Bluetooth Speaker",
+      "price": 707.38,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=163",
+      "category": "Audio",
+      "desc": "32-bit processing, low noise"
+    },
+    {
+      "id": 164,
+      "title": "DJ Headphones",
+      "price": 497.4,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=164",
+      "category": "Audio",
+      "desc": "Broadcast quality, pop filter"
+    },
+    {
+      "id": 165,
+      "title": "Wireless Headphones",
+      "price": 683.64,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=165",
+      "category": "Audio",
+      "desc": "Swivel cups, detachable cable"
+    },
+    {
+      "id": 166,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 642.52,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=166",
+      "category": "Audio",
+      "desc": "Dolby Atmos, HDMI eARC"
+    },
+    {
+      "id": 167,
+      "title": "Podcast Mic",
+      "price": 455.18,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=167",
+      "category": "Audio",
+      "desc": "32-bit processing, low noise"
+    },
+    {
+      "id": 168,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 211.81,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?audio,headphones&sig=168",
+      "category": "Audio",
+      "desc": "360° sound, IPX7 waterproof"
+    },
+    {
+      "id": 169,
+      "title": "Pro Max Phone",
+      "price": 1420.44,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=169",
+      "category": "Phones",
+      "desc": "1/1.3” sensor, OIS"
+    },
+    {
+      "id": 170,
+      "title": "Mini Smartphone",
+      "price": 1611.78,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=170",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 171,
+      "title": "Camera Phone",
+      "price": 1422.64,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=171",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 172,
+      "title": "Ultra Phone",
+      "price": 1014.0,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=172",
+      "category": "Phones",
+      "desc": "Snapdragon, vapor chamber"
+    },
+    {
+      "id": 173,
+      "title": "5G Phone",
+      "price": 747.58,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=173",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 174,
+      "title": "Foldable Phone",
+      "price": 599.12,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=174",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 175,
+      "title": "Camera Phone",
+      "price": 352.57,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=175",
+      "category": "Phones",
+      "desc": "Snapdragon, vapor chamber"
+    },
+    {
+      "id": 176,
+      "title": "Budget Phone",
+      "price": 533.64,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=176",
+      "category": "Phones",
+      "desc": "1/1.3” sensor, OIS"
+    },
+    {
+      "id": 177,
+      "title": "Ultra Phone",
+      "price": 1245.0,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=177",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 178,
+      "title": "Camera Phone",
+      "price": 554.39,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=178",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 179,
+      "title": "Smartphone",
+      "price": 365.71,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=179",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 180,
+      "title": "Smartphone",
+      "price": 675.3,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=180",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 181,
+      "title": "Mini Smartphone",
+      "price": 1760.99,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=181",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 182,
+      "title": "Mini Smartphone",
+      "price": 952.68,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=182",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 183,
+      "title": "Smartphone",
+      "price": 1888.79,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=183",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 184,
+      "title": "Flagship Phone",
+      "price": 1048.57,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=184",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 185,
+      "title": "Smartphone",
+      "price": 408.0,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=185",
+      "category": "Phones",
+      "desc": "6.1” IPS, 64GB, dual SIM"
+    },
+    {
+      "id": 186,
+      "title": "Foldable Phone",
+      "price": 1987.63,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=186",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 187,
+      "title": "5G Phone",
+      "price": 1243.76,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=187",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 188,
+      "title": "Pro Max Phone",
+      "price": 971.46,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=188",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 189,
+      "title": "Ultra Phone",
+      "price": 700.06,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=189",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 190,
+      "title": "Ultra Phone",
+      "price": 1900.99,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=190",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 191,
+      "title": "Camera Phone",
+      "price": 1364.0,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=191",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 192,
+      "title": "Budget Phone",
+      "price": 269.37,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=192",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 193,
+      "title": "Mini Smartphone",
+      "price": 1007.74,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=193",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 194,
+      "title": "Foldable Phone",
+      "price": 1443.59,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=194",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 195,
+      "title": "Camera Phone",
+      "price": 1602.24,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=195",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 196,
+      "title": "Camera Phone",
+      "price": 343.63,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=196",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 197,
+      "title": "Budget Phone",
+      "price": 1674.8,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=197",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 198,
+      "title": "Budget Phone",
+      "price": 1241.73,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=198",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 199,
+      "title": "Foldable Phone",
+      "price": 361.54,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=199",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 200,
+      "title": "5G Phone",
+      "price": 1064.88,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=200",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 201,
+      "title": "Flagship Phone",
+      "price": 203.54,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=201",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 202,
+      "title": "Gaming Phone",
+      "price": 597.19,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=202",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 203,
+      "title": "Ultra Phone",
+      "price": 1906.97,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=203",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 204,
+      "title": "Foldable Phone",
+      "price": 204.23,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=204",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 205,
+      "title": "Mini Smartphone",
+      "price": 1347.32,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=205",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 206,
+      "title": "Budget Phone",
+      "price": 944.1,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=206",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 207,
+      "title": "Flagship Phone",
+      "price": 779.69,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=207",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 208,
+      "title": "Flagship Phone",
+      "price": 745.73,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=208",
+      "category": "Phones",
+      "desc": "6.1” IPS, 64GB, dual SIM"
+    },
+    {
+      "id": 209,
+      "title": "Foldable Phone",
+      "price": 1650.37,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=209",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 210,
+      "title": "Mini Smartphone",
+      "price": 717.15,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=210",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 211,
+      "title": "5G Phone",
+      "price": 1671.61,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=211",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 212,
+      "title": "Pro Max Phone",
+      "price": 901.77,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=212",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 213,
+      "title": "Gaming Phone",
+      "price": 1543.55,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=213",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 214,
+      "title": "Smartphone",
+      "price": 628.4,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=214",
+      "category": "Phones",
+      "desc": "1/1.3” sensor, OIS"
+    },
+    {
+      "id": 215,
+      "title": "Foldable Phone",
+      "price": 1776.18,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=215",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 216,
+      "title": "Smartphone",
+      "price": 1623.72,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=216",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 217,
+      "title": "Foldable Phone",
+      "price": 154.57,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=217",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 218,
+      "title": "Camera Phone",
+      "price": 991.91,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=218",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 219,
+      "title": "Budget Phone",
+      "price": 1873.06,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=219",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 220,
+      "title": "Foldable Phone",
+      "price": 1689.93,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=220",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 221,
+      "title": "Camera Phone",
+      "price": 1159.87,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=221",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 222,
+      "title": "Ultra Phone",
+      "price": 1524.57,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=222",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 223,
+      "title": "Flagship Phone",
+      "price": 1573.9,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=223",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 224,
+      "title": "Gaming Phone",
+      "price": 628.61,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=224",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 225,
+      "title": "Foldable Phone",
+      "price": 1213.46,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=225",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 226,
+      "title": "Budget Phone",
+      "price": 1136.15,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=226",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 227,
+      "title": "Pro Max Phone",
+      "price": 834.38,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=227",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 228,
+      "title": "Camera Phone",
+      "price": 1198.26,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=228",
+      "category": "Phones",
+      "desc": "1/1.3” sensor, OIS"
+    },
+    {
+      "id": 229,
+      "title": "5G Phone",
+      "price": 723.99,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=229",
+      "category": "Phones",
+      "desc": "6.5” OLED, 128GB, 5G"
+    },
+    {
+      "id": 230,
+      "title": "5G Phone",
+      "price": 1977.33,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=230",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 231,
+      "title": "Budget Phone",
+      "price": 1933.22,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=231",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 232,
+      "title": "Ultra Phone",
+      "price": 1755.34,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=232",
+      "category": "Phones",
+      "desc": "Snapdragon, vapor chamber"
+    },
+    {
+      "id": 233,
+      "title": "Mini Smartphone",
+      "price": 1112.53,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=233",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 234,
+      "title": "Budget Phone",
+      "price": 1757.64,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=234",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 235,
+      "title": "Flagship Phone",
+      "price": 1590.45,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=235",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 236,
+      "title": "Ultra Phone",
+      "price": 1344.19,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=236",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 237,
+      "title": "Pro Max Phone",
+      "price": 1913.24,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=237",
+      "category": "Phones",
+      "desc": "mmWave support, dual SIM"
+    },
+    {
+      "id": 238,
+      "title": "Mini Smartphone",
+      "price": 196.13,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=238",
+      "category": "Phones",
+      "desc": "5000mAh, fast charging"
+    },
+    {
+      "id": 239,
+      "title": "Foldable Phone",
+      "price": 1525.45,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=239",
+      "category": "Phones",
+      "desc": "1/1.3” sensor, OIS"
+    },
+    {
+      "id": 240,
+      "title": "Flagship Phone",
+      "price": 958.68,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=240",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 241,
+      "title": "Smartphone",
+      "price": 735.58,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=241",
+      "category": "Phones",
+      "desc": "6.5” OLED, 128GB, 5G"
+    },
+    {
+      "id": 242,
+      "title": "Gaming Phone",
+      "price": 934.38,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=242",
+      "category": "Phones",
+      "desc": "Snapdragon, vapor chamber"
+    },
+    {
+      "id": 243,
+      "title": "5G Phone",
+      "price": 1403.97,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=243",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 244,
+      "title": "Budget Phone",
+      "price": 1268.75,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=244",
+      "category": "Phones",
+      "desc": "120Hz AMOLED, triple camera"
+    },
+    {
+      "id": 245,
+      "title": "Camera Phone",
+      "price": 1835.99,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=245",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 246,
+      "title": "Mini Smartphone",
+      "price": 988.4,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=246",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 247,
+      "title": "Mini Smartphone",
+      "price": 1396.13,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=247",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 248,
+      "title": "Mini Smartphone",
+      "price": 1975.91,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=248",
+      "category": "Phones",
+      "desc": "Snapdragon, vapor chamber"
+    },
+    {
+      "id": 249,
+      "title": "5G Phone",
+      "price": 983.28,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=249",
+      "category": "Phones",
+      "desc": "Inner OLED, outer display"
+    },
+    {
+      "id": 250,
+      "title": "5G Phone",
+      "price": 328.44,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=250",
+      "category": "Phones",
+      "desc": "Compact size, NFC"
+    },
+    {
+      "id": 251,
+      "title": "Gaming Phone",
+      "price": 682.28,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartphone,phone&sig=251",
+      "category": "Phones",
+      "desc": "Periscope zoom, LTPO 2.0"
+    },
+    {
+      "id": 252,
+      "title": "Laptop",
+      "price": 1177.34,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=252",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 253,
+      "title": "Laptop",
+      "price": 2683.55,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=253",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 254,
+      "title": "All-in-One PC",
+      "price": 2241.61,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=254",
+      "category": "Computers",
+      "desc": "Palm-sized, silent cooling"
+    },
+    {
+      "id": 255,
+      "title": "Mini PC",
+      "price": 1101.01,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=255",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 256,
+      "title": "Gaming Laptop",
+      "price": 3189.89,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=256",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 257,
+      "title": "All-in-One PC",
+      "price": 405.77,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=257",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 258,
+      "title": "Gaming Laptop",
+      "price": 3209.81,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=258",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 259,
+      "title": "2-in-1 Convertible",
+      "price": 941.54,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=259",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 260,
+      "title": "Workstation",
+      "price": 1904.74,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=260",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 261,
+      "title": "Gaming Laptop",
+      "price": 3223.96,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=261",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 262,
+      "title": "All-in-One PC",
+      "price": 2872.54,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=262",
+      "category": "Computers",
+      "desc": "ECC memory, Xeon CPU"
+    },
+    {
+      "id": 263,
+      "title": "Ultrabook",
+      "price": 2712.28,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=263",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 264,
+      "title": "2-in-1 Convertible",
+      "price": 1469.48,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=264",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 265,
+      "title": "Laptop",
+      "price": 2016.03,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=265",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 266,
+      "title": "All-in-One PC",
+      "price": 1518.28,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=266",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 267,
+      "title": "Workstation",
+      "price": 2458.48,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=267",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 268,
+      "title": "Creator Laptop",
+      "price": 1348.62,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=268",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 269,
+      "title": "Ultrabook",
+      "price": 3209.04,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=269",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 270,
+      "title": "2-in-1 Convertible",
+      "price": 746.29,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=270",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 271,
+      "title": "All-in-One PC",
+      "price": 670.59,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=271",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 272,
+      "title": "Desktop Tower",
+      "price": 1542.67,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=272",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 273,
+      "title": "Desktop Tower",
+      "price": 2178.49,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=273",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 274,
+      "title": "2-in-1 Convertible",
+      "price": 2966.82,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=274",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 275,
+      "title": "All-in-One PC",
+      "price": 2507.9,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=275",
+      "category": "Computers",
+      "desc": "14” IPS, 16GB RAM, 512GB SSD"
+    },
+    {
+      "id": 276,
+      "title": "Chromebook",
+      "price": 3036.44,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=276",
+      "category": "Computers",
+      "desc": "Palm-sized, silent cooling"
+    },
+    {
+      "id": 277,
+      "title": "Workstation",
+      "price": 3184.43,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=277",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 278,
+      "title": "Laptop",
+      "price": 1181.82,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=278",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 279,
+      "title": "Chromebook",
+      "price": 2419.86,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=279",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 280,
+      "title": "Creator Laptop",
+      "price": 460.85,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=280",
+      "category": "Computers",
+      "desc": "14” IPS, 16GB RAM, 512GB SSD"
+    },
+    {
+      "id": 281,
+      "title": "Gaming Laptop",
+      "price": 955.66,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=281",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 282,
+      "title": "Desktop Tower",
+      "price": 2175.43,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=282",
+      "category": "Computers",
+      "desc": "Palm-sized, silent cooling"
+    },
+    {
+      "id": 283,
+      "title": "Mini PC",
+      "price": 2776.98,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=283",
+      "category": "Computers",
+      "desc": "ECC memory, Xeon CPU"
+    },
+    {
+      "id": 284,
+      "title": "Creator Laptop",
+      "price": 1186.28,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=284",
+      "category": "Computers",
+      "desc": "14” IPS, 16GB RAM, 512GB SSD"
+    },
+    {
+      "id": 285,
+      "title": "Gaming Laptop",
+      "price": 1101.09,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=285",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 286,
+      "title": "Laptop",
+      "price": 346.55,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=286",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 287,
+      "title": "Mini PC",
+      "price": 1335.07,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=287",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 288,
+      "title": "Laptop",
+      "price": 2672.5,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=288",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 289,
+      "title": "Ultrabook",
+      "price": 1733.48,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=289",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 290,
+      "title": "Creator Laptop",
+      "price": 1745.42,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=290",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 291,
+      "title": "Creator Laptop",
+      "price": 2626.18,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=291",
+      "category": "Computers",
+      "desc": "14” IPS, 16GB RAM, 512GB SSD"
+    },
+    {
+      "id": 292,
+      "title": "Desktop Tower",
+      "price": 1764.74,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=292",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 293,
+      "title": "Laptop",
+      "price": 3010.36,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=293",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 294,
+      "title": "Ultrabook",
+      "price": 2578.68,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=294",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 295,
+      "title": "Ultrabook",
+      "price": 2245.55,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=295",
+      "category": "Computers",
+      "desc": "ECC memory, Xeon CPU"
+    },
+    {
+      "id": 296,
+      "title": "All-in-One PC",
+      "price": 2324.85,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=296",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 297,
+      "title": "Workstation",
+      "price": 3481.81,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=297",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 298,
+      "title": "Chromebook",
+      "price": 2236.37,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=298",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 299,
+      "title": "Ultrabook",
+      "price": 2605.69,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=299",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 300,
+      "title": "Chromebook",
+      "price": 1623.2,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=300",
+      "category": "Computers",
+      "desc": "Palm-sized, silent cooling"
+    },
+    {
+      "id": 301,
+      "title": "2-in-1 Convertible",
+      "price": 2633.76,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=301",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 302,
+      "title": "Workstation",
+      "price": 1496.76,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=302",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 303,
+      "title": "Chromebook",
+      "price": 590.92,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=303",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 304,
+      "title": "2-in-1 Convertible",
+      "price": 2681.68,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=304",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 305,
+      "title": "Gaming Laptop",
+      "price": 490.94,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=305",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 306,
+      "title": "Desktop Tower",
+      "price": 2443.04,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=306",
+      "category": "Computers",
+      "desc": "ECC memory, Xeon CPU"
+    },
+    {
+      "id": 307,
+      "title": "2-in-1 Convertible",
+      "price": 3397.88,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=307",
+      "category": "Computers",
+      "desc": "14” IPS, 16GB RAM, 512GB SSD"
+    },
+    {
+      "id": 308,
+      "title": "Workstation",
+      "price": 2148.34,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=308",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 309,
+      "title": "Chromebook",
+      "price": 3010.28,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=309",
+      "category": "Computers",
+      "desc": "Palm-sized, silent cooling"
+    },
+    {
+      "id": 310,
+      "title": "Desktop Tower",
+      "price": 666.63,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=310",
+      "category": "Computers",
+      "desc": "ECC memory, Xeon CPU"
+    },
+    {
+      "id": 311,
+      "title": "Mini PC",
+      "price": 3003.5,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=311",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 312,
+      "title": "Creator Laptop",
+      "price": 2458.93,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=312",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 313,
+      "title": "Creator Laptop",
+      "price": 391.65,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=313",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 314,
+      "title": "All-in-One PC",
+      "price": 1422.27,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=314",
+      "category": "Computers",
+      "desc": "ECC memory, Xeon CPU"
+    },
+    {
+      "id": 315,
+      "title": "Gaming Laptop",
+      "price": 2402.5,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=315",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 316,
+      "title": "Laptop",
+      "price": 2686.56,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=316",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 317,
+      "title": "2-in-1 Convertible",
+      "price": 1389.87,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=317",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 318,
+      "title": "Workstation",
+      "price": 2206.92,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=318",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 319,
+      "title": "Gaming Laptop",
+      "price": 2713.19,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=319",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 320,
+      "title": "Ultrabook",
+      "price": 1716.96,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=320",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 321,
+      "title": "Creator Laptop",
+      "price": 1624.39,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=321",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 322,
+      "title": "Desktop Tower",
+      "price": 1403.55,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=322",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 323,
+      "title": "Creator Laptop",
+      "price": 1985.19,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=323",
+      "category": "Computers",
+      "desc": "Lightweight, instant boot"
+    },
+    {
+      "id": 324,
+      "title": "Mini PC",
+      "price": 3449.23,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=324",
+      "category": "Computers",
+      "desc": "Touchscreen, active pen"
+    },
+    {
+      "id": 325,
+      "title": "Mini PC",
+      "price": 3324.04,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=325",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 326,
+      "title": "All-in-One PC",
+      "price": 1348.99,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=326",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 327,
+      "title": "2-in-1 Convertible",
+      "price": 712.39,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=327",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 328,
+      "title": "Mini PC",
+      "price": 2086.92,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=328",
+      "category": "Computers",
+      "desc": "ATX case, tempered glass"
+    },
+    {
+      "id": 329,
+      "title": "Workstation",
+      "price": 1569.63,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=329",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 330,
+      "title": "2-in-1 Convertible",
+      "price": 1770.21,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=330",
+      "category": "Computers",
+      "desc": "14” IPS, 16GB RAM, 512GB SSD"
+    },
+    {
+      "id": 331,
+      "title": "Workstation",
+      "price": 1672.71,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=331",
+      "category": "Computers",
+      "desc": "Calibrated display, SD reader"
+    },
+    {
+      "id": 332,
+      "title": "2-in-1 Convertible",
+      "price": 667.55,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=332",
+      "category": "Computers",
+      "desc": "27” 4K display, slim bezel"
+    },
+    {
+      "id": 333,
+      "title": "Workstation",
+      "price": 2863.23,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=333",
+      "category": "Computers",
+      "desc": "RTX graphics, 165Hz"
+    },
+    {
+      "id": 334,
+      "title": "Workstation",
+      "price": 1696.48,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?laptop,computer&sig=334",
+      "category": "Computers",
+      "desc": "aluminum chassis, long battery"
+    },
+    {
+      "id": 335,
+      "title": "ECG Watch",
+      "price": 423.43,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=335",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 336,
+      "title": "Smart Ring",
+      "price": 251.71,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=336",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 337,
+      "title": "Fitness Band",
+      "price": 646.9,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=337",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 338,
+      "title": "VR Fitness Strap",
+      "price": 376.06,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=338",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 339,
+      "title": "GPS Watch",
+      "price": 137.69,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=339",
+      "category": "Wearables",
+      "desc": "Sweatproof, quick release"
+    },
+    {
+      "id": 340,
+      "title": "GPS Watch",
+      "price": 185.75,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=340",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 341,
+      "title": "Fitness Band",
+      "price": 952.24,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=341",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 342,
+      "title": "Runner Watch",
+      "price": 768.48,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=342",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 343,
+      "title": "Sports Watch",
+      "price": 349.28,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=343",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 344,
+      "title": "Kids Tracker",
+      "price": 461.17,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=344",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 345,
+      "title": "Smart Ring",
+      "price": 606.76,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=345",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 346,
+      "title": "Fitness Band",
+      "price": 482.27,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=346",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 347,
+      "title": "Kids Tracker",
+      "price": 112.66,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=347",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 348,
+      "title": "Fitness Band",
+      "price": 609.32,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=348",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 349,
+      "title": "Sports Watch",
+      "price": 955.06,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=349",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 350,
+      "title": "Smartwatch",
+      "price": 911.69,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=350",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 351,
+      "title": "VR Fitness Strap",
+      "price": 619.81,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=351",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 352,
+      "title": "Smartwatch",
+      "price": 138.36,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=352",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 353,
+      "title": "Kids Tracker",
+      "price": 523.37,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=353",
+      "category": "Wearables",
+      "desc": "Sleep tracking, SpO2"
+    },
+    {
+      "id": 354,
+      "title": "VR Fitness Strap",
+      "price": 990.35,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=354",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 355,
+      "title": "Sports Watch",
+      "price": 388.34,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=355",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 356,
+      "title": "ECG Watch",
+      "price": 782.49,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=356",
+      "category": "Wearables",
+      "desc": "Medical-grade ECG, AFib detect"
+    },
+    {
+      "id": 357,
+      "title": "Smartwatch",
+      "price": 102.28,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=357",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 358,
+      "title": "ECG Watch",
+      "price": 280.92,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=358",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 359,
+      "title": "Sports Watch",
+      "price": 359.03,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=359",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 360,
+      "title": "GPS Watch",
+      "price": 336.82,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=360",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 361,
+      "title": "ECG Watch",
+      "price": 610.24,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=361",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 362,
+      "title": "Smart Ring",
+      "price": 400.61,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=362",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 363,
+      "title": "GPS Watch",
+      "price": 128.71,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=363",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 364,
+      "title": "Dive Computer",
+      "price": 56.5,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=364",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 365,
+      "title": "VR Fitness Strap",
+      "price": 948.76,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=365",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 366,
+      "title": "VR Fitness Strap",
+      "price": 187.75,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=366",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 367,
+      "title": "Fitness Band",
+      "price": 779.04,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=367",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 368,
+      "title": "Dive Computer",
+      "price": 674.45,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=368",
+      "category": "Wearables",
+      "desc": "GPS, heart-rate, 7-day battery"
+    },
+    {
+      "id": 369,
+      "title": "Sports Watch",
+      "price": 612.36,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=369",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 370,
+      "title": "GPS Watch",
+      "price": 815.68,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=370",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 371,
+      "title": "Runner Watch",
+      "price": 433.42,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=371",
+      "category": "Wearables",
+      "desc": "GPS, heart-rate, 7-day battery"
+    },
+    {
+      "id": 372,
+      "title": "VR Fitness Strap",
+      "price": 625.17,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=372",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 373,
+      "title": "Runner Watch",
+      "price": 551.65,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=373",
+      "category": "Wearables",
+      "desc": "Sweatproof, quick release"
+    },
+    {
+      "id": 374,
+      "title": "Runner Watch",
+      "price": 392.13,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=374",
+      "category": "Wearables",
+      "desc": "Sweatproof, quick release"
+    },
+    {
+      "id": 375,
+      "title": "Runner Watch",
+      "price": 777.66,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=375",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 376,
+      "title": "Dive Computer",
+      "price": 440.91,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=376",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 377,
+      "title": "VR Fitness Strap",
+      "price": 171.86,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=377",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 378,
+      "title": "Runner Watch",
+      "price": 571.36,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=378",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 379,
+      "title": "Dive Computer",
+      "price": 312.66,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=379",
+      "category": "Wearables",
+      "desc": "Sleep tracking, SpO2"
+    },
+    {
+      "id": 380,
+      "title": "Smart Ring",
+      "price": 908.09,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=380",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 381,
+      "title": "ECG Watch",
+      "price": 947.56,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=381",
+      "category": "Wearables",
+      "desc": "Sleep tracking, SpO2"
+    },
+    {
+      "id": 382,
+      "title": "Runner Watch",
+      "price": 932.25,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=382",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 383,
+      "title": "ECG Watch",
+      "price": 398.0,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=383",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 384,
+      "title": "Fitness Band",
+      "price": 254.56,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=384",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 385,
+      "title": "Fitness Band",
+      "price": 798.73,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=385",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 386,
+      "title": "Smart Ring",
+      "price": 707.23,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=386",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 387,
+      "title": "Runner Watch",
+      "price": 629.73,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=387",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 388,
+      "title": "Smartwatch",
+      "price": 246.03,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=388",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 389,
+      "title": "Sports Watch",
+      "price": 445.32,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=389",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 390,
+      "title": "VR Fitness Strap",
+      "price": 155.97,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=390",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 391,
+      "title": "Sports Watch",
+      "price": 99.29,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=391",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 392,
+      "title": "Runner Watch",
+      "price": 553.61,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=392",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 393,
+      "title": "Sports Watch",
+      "price": 728.8,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=393",
+      "category": "Wearables",
+      "desc": "Sweatproof, quick release"
+    },
+    {
+      "id": 394,
+      "title": "Smartwatch",
+      "price": 377.7,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=394",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 395,
+      "title": "GPS Watch",
+      "price": 541.55,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=395",
+      "category": "Wearables",
+      "desc": "Sleep tracking, SpO2"
+    },
+    {
+      "id": 396,
+      "title": "Dive Computer",
+      "price": 526.03,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=396",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 397,
+      "title": "Dive Computer",
+      "price": 413.84,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=397",
+      "category": "Wearables",
+      "desc": "GPS, heart-rate, 7-day battery"
+    },
+    {
+      "id": 398,
+      "title": "ECG Watch",
+      "price": 282.5,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=398",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 399,
+      "title": "Fitness Band",
+      "price": 270.48,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=399",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 400,
+      "title": "Fitness Band",
+      "price": 744.78,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=400",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 401,
+      "title": "Smartwatch",
+      "price": 563.17,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=401",
+      "category": "Wearables",
+      "desc": "Geofencing, SOS alerts"
+    },
+    {
+      "id": 402,
+      "title": "GPS Watch",
+      "price": 980.59,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=402",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 403,
+      "title": "GPS Watch",
+      "price": 99.58,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=403",
+      "category": "Wearables",
+      "desc": "Multi-band GNSS, offline maps"
+    },
+    {
+      "id": 404,
+      "title": "Runner Watch",
+      "price": 320.7,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=404",
+      "category": "Wearables",
+      "desc": "GPS, heart-rate, 7-day battery"
+    },
+    {
+      "id": 405,
+      "title": "VR Fitness Strap",
+      "price": 341.97,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=405",
+      "category": "Wearables",
+      "desc": "GPS, heart-rate, 7-day battery"
+    },
+    {
+      "id": 406,
+      "title": "ECG Watch",
+      "price": 493.46,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=406",
+      "category": "Wearables",
+      "desc": "100m water resistance"
+    },
+    {
+      "id": 407,
+      "title": "VR Fitness Strap",
+      "price": 381.7,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=407",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 408,
+      "title": "Kids Tracker",
+      "price": 158.5,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=408",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 409,
+      "title": "ECG Watch",
+      "price": 897.85,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=409",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 410,
+      "title": "GPS Watch",
+      "price": 703.39,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=410",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 411,
+      "title": "Dive Computer",
+      "price": 808.1,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=411",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 412,
+      "title": "Fitness Band",
+      "price": 617.36,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=412",
+      "category": "Wearables",
+      "desc": "Medical-grade ECG, AFib detect"
+    },
+    {
+      "id": 413,
+      "title": "Dive Computer",
+      "price": 347.36,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=413",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 414,
+      "title": "Smart Ring",
+      "price": 467.08,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=414",
+      "category": "Wearables",
+      "desc": "Titanium body, 24/7 tracking"
+    },
+    {
+      "id": 415,
+      "title": "GPS Watch",
+      "price": 376.49,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=415",
+      "category": "Wearables",
+      "desc": "VO2 max, training load"
+    },
+    {
+      "id": 416,
+      "title": "Kids Tracker",
+      "price": 997.22,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=416",
+      "category": "Wearables",
+      "desc": "100+ sport modes"
+    },
+    {
+      "id": 417,
+      "title": "Smartwatch",
+      "price": 683.34,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?smartwatch,wearable&sig=417",
+      "category": "Wearables",
+      "desc": "Sleep tracking, SpO2"
+    },
+    {
+      "id": 418,
+      "title": "Power Bank",
+      "price": 285.31,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=418",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 419,
+      "title": "Magnetic Cable",
+      "price": 19.09,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=419",
+      "category": "Accessories",
+      "desc": "9H hardness, oleophobic"
+    },
+    {
+      "id": 420,
+      "title": "Mechanical Keycaps",
+      "price": 120.03,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=420",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 421,
+      "title": "Magnetic Cable",
+      "price": 205.93,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=421",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 422,
+      "title": "Mechanical Keycaps",
+      "price": 230.29,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=422",
+      "category": "Accessories",
+      "desc": "9H hardness, oleophobic"
+    },
+    {
+      "id": 423,
+      "title": "Power Bank",
+      "price": 124.43,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=423",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 424,
+      "title": "Laptop Stand",
+      "price": 16.51,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=424",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 425,
+      "title": "Power Bank",
+      "price": 273.93,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=425",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 426,
+      "title": "Webcam",
+      "price": 71.23,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=426",
+      "category": "Accessories",
+      "desc": "9H hardness, oleophobic"
+    },
+    {
+      "id": 427,
+      "title": "Screen Protector",
+      "price": 44.56,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=427",
+      "category": "Accessories",
+      "desc": "Aluminum, adjustable angle"
+    },
+    {
+      "id": 428,
+      "title": "Screen Protector",
+      "price": 269.62,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=428",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 429,
+      "title": "USB-C Hub",
+      "price": 202.67,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=429",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 430,
+      "title": "Power Bank",
+      "price": 93.21,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=430",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 431,
+      "title": "Portable SSD",
+      "price": 239.17,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=431",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 432,
+      "title": "USB-C Hub",
+      "price": 238.7,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=432",
+      "category": "Accessories",
+      "desc": "Aluminum, adjustable angle"
+    },
+    {
+      "id": 433,
+      "title": "Screen Protector",
+      "price": 113.66,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=433",
+      "category": "Accessories",
+      "desc": "15W fast charge, Qi2"
+    },
+    {
+      "id": 434,
+      "title": "Screen Protector",
+      "price": 46.63,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=434",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 435,
+      "title": "USB-C Hub",
+      "price": 124.47,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=435",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 436,
+      "title": "Screen Protector",
+      "price": 128.13,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=436",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 437,
+      "title": "Magnetic Cable",
+      "price": 45.34,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=437",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 438,
+      "title": "USB-C Hub",
+      "price": 144.09,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=438",
+      "category": "Accessories",
+      "desc": "9H hardness, oleophobic"
+    },
+    {
+      "id": 439,
+      "title": "Portable SSD",
+      "price": 194.54,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=439",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 440,
+      "title": "Portable SSD",
+      "price": 154.83,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=440",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 441,
+      "title": "USB-C Hub",
+      "price": 53.37,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=441",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 442,
+      "title": "Mechanical Keycaps",
+      "price": 109.35,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=442",
+      "category": "Accessories",
+      "desc": "Aluminum, adjustable angle"
+    },
+    {
+      "id": 443,
+      "title": "Webcam",
+      "price": 81.68,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=443",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 444,
+      "title": "Power Bank",
+      "price": 45.3,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=444",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 445,
+      "title": "Power Bank",
+      "price": 154.75,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=445",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 446,
+      "title": "Magnetic Cable",
+      "price": 58.65,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=446",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 447,
+      "title": "Magnetic Cable",
+      "price": 253.33,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=447",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 448,
+      "title": "Wireless Charger",
+      "price": 22.18,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=448",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 449,
+      "title": "Magnetic Cable",
+      "price": 197.83,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=449",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 450,
+      "title": "Phone Case",
+      "price": 194.31,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=450",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 451,
+      "title": "Power Bank",
+      "price": 195.15,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=451",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 452,
+      "title": "Laptop Stand",
+      "price": 95.26,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=452",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 453,
+      "title": "Wireless Charger",
+      "price": 136.49,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=453",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 454,
+      "title": "Laptop Stand",
+      "price": 184.93,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=454",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 455,
+      "title": "Mechanical Keycaps",
+      "price": 291.86,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=455",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 456,
+      "title": "Mechanical Keycaps",
+      "price": 171.88,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=456",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 457,
+      "title": "Screen Protector",
+      "price": 86.57,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=457",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 458,
+      "title": "USB-C Hub",
+      "price": 93.16,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=458",
+      "category": "Accessories",
+      "desc": "15W fast charge, Qi2"
+    },
+    {
+      "id": 459,
+      "title": "Magnetic Cable",
+      "price": 81.0,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=459",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 460,
+      "title": "Portable SSD",
+      "price": 279.79,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=460",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 461,
+      "title": "Laptop Stand",
+      "price": 153.5,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=461",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 462,
+      "title": "Screen Protector",
+      "price": 153.24,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=462",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 463,
+      "title": "Phone Case",
+      "price": 141.6,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=463",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 464,
+      "title": "Magnetic Cable",
+      "price": 23.11,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=464",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 465,
+      "title": "Magnetic Cable",
+      "price": 91.87,
+      "rating": 3.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=465",
+      "category": "Accessories",
+      "desc": "9H hardness, oleophobic"
+    },
+    {
+      "id": 466,
+      "title": "USB-C Hub",
+      "price": 47.84,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=466",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 467,
+      "title": "Mechanical Keycaps",
+      "price": 115.12,
+      "rating": 4.1,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=467",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 468,
+      "title": "Magnetic Cable",
+      "price": 65.45,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=468",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 469,
+      "title": "USB-C Hub",
+      "price": 155.23,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=469",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 470,
+      "title": "Webcam",
+      "price": 206.32,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=470",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 471,
+      "title": "USB-C Hub",
+      "price": 117.23,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=471",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 472,
+      "title": "Power Bank",
+      "price": 227.94,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=472",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 473,
+      "title": "Power Bank",
+      "price": 154.02,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=473",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 474,
+      "title": "Portable SSD",
+      "price": 242.15,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=474",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 475,
+      "title": "Portable SSD",
+      "price": 268.01,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=475",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 476,
+      "title": "Magnetic Cable",
+      "price": 56.13,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=476",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 477,
+      "title": "Webcam",
+      "price": 106.55,
+      "rating": 4.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=477",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 478,
+      "title": "Power Bank",
+      "price": 214.53,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=478",
+      "category": "Accessories",
+      "desc": "9H hardness, oleophobic"
+    },
+    {
+      "id": 479,
+      "title": "Wireless Charger",
+      "price": 105.06,
+      "rating": 3.7,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=479",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 480,
+      "title": "Phone Case",
+      "price": 98.23,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=480",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 481,
+      "title": "Wireless Charger",
+      "price": 146.63,
+      "rating": 5.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=481",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 482,
+      "title": "Magnetic Cable",
+      "price": 74.99,
+      "rating": 3.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=482",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 483,
+      "title": "Screen Protector",
+      "price": 161.03,
+      "rating": 4.6,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=483",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 484,
+      "title": "Phone Case",
+      "price": 247.28,
+      "rating": 3.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=484",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 485,
+      "title": "Magnetic Cable",
+      "price": 64.33,
+      "rating": 4.2,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=485",
+      "category": "Accessories",
+      "desc": "HDMI, USB-A, SD card"
+    },
+    {
+      "id": 486,
+      "title": "Phone Case",
+      "price": 128.76,
+      "rating": 3.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=486",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 487,
+      "title": "Power Bank",
+      "price": 275.95,
+      "rating": 4.8,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=487",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 488,
+      "title": "Wireless Charger",
+      "price": 159.42,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=488",
+      "category": "Accessories",
+      "desc": "NVMe, 1050MB/s"
+    },
+    {
+      "id": 489,
+      "title": "Screen Protector",
+      "price": 118.28,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=489",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 490,
+      "title": "Screen Protector",
+      "price": 108.27,
+      "rating": 4.0,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=490",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 491,
+      "title": "Webcam",
+      "price": 149.41,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=491",
+      "category": "Accessories",
+      "desc": "Nylon-braided, 100W"
+    },
+    {
+      "id": 492,
+      "title": "Webcam",
+      "price": 95.56,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=492",
+      "category": "Accessories",
+      "desc": "20,000mAh, PD 60W"
+    },
+    {
+      "id": 493,
+      "title": "Webcam",
+      "price": 213.42,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=493",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 494,
+      "title": "Screen Protector",
+      "price": 148.14,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=494",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 495,
+      "title": "Webcam",
+      "price": 44.34,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=495",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 496,
+      "title": "Phone Case",
+      "price": 246.33,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=496",
+      "category": "Accessories",
+      "desc": "Shock-absorbent, slim"
+    },
+    {
+      "id": 497,
+      "title": "Portable SSD",
+      "price": 21.2,
+      "rating": 4.9,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=497",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    },
+    {
+      "id": 498,
+      "title": "USB-C Hub",
+      "price": 276.96,
+      "rating": 4.5,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=498",
+      "category": "Accessories",
+      "desc": "PBT doubleshot, OEM profile"
+    },
+    {
+      "id": 499,
+      "title": "Screen Protector",
+      "price": 67.6,
+      "rating": 4.3,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=499",
+      "category": "Accessories",
+      "desc": "Aluminum, adjustable angle"
+    },
+    {
+      "id": 500,
+      "title": "Power Bank",
+      "price": 48.81,
+      "rating": 4.4,
+      "image": "https://source.unsplash.com/400x400/?tech,accessory&sig=500",
+      "category": "Accessories",
+      "desc": "1080p60, autofocus"
+    }
+  ]
+}
