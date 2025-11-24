@@ -2,8 +2,63 @@
 @tailwind components;
 @tailwind utilities;
 
-.container-max { @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8; }
-.section { @apply container-max py-8 sm:py-10; }
-.section-title { @apply text-xl font-semibold mb-4; }
-.badge { @apply inline-flex items-center rounded-full bg-gray-100 text-gray-700 text-xs px-2 py-0.5; }
-.card { @apply bg-white border rounded-lg p-3 shadow-sm hover:shadow transition; }
+
+.container-max {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.section {
+    @apply container-max py-8 sm:py-10;
+}
+
+.section-title {
+    @apply text-xl font-semibold mb-4;
+}
+
+.badge {
+    @apply inline-flex items-center rounded-full bg-gray-100 text-gray-700 text-xs px-2 py-0.5;
+}
+
+.card {
+    @apply bg-white border rounded-lg p-3 shadow-sm hover:shadow transition;
+}
+
+
+
+/* Fix thumbnail size */
+.image-gallery-thumbnail img {
+    height: 70px !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+
+/* Remove scale on active */
+.image-gallery-thumbnail.active img {
+    transform: none !important;
+}
+
+/* Make active thumbnail clearer, not bigger */
+.image-gallery-thumbnail.active {
+    border: 3px solid #2563eb !important;
+    /* blue */
+    border-radius: 8px !important;
+}
+
+/* Remove default focus outline */
+.image-gallery-thumbnail:focus {
+    outline: none !important;
+}
+
+
+/* Main image always fixed size */
+.main-gallery-fixed .image-gallery-slide img {
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+}
+
+/* Fix container height */
+.main-gallery-fixed .image-gallery-slide-wrapper {
+    height: 100% !important;
+}

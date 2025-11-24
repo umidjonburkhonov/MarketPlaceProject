@@ -1,35 +1,28 @@
-import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
-import { api } from '../../api/client'
+// store/slices/authSlice.js
+import { createSlice } from "@reduxjs/toolkit";
 
-export const fetchMe = createAsyncThunk('auth/me', async () => {
-  const { data } = await api.get('/auth/me')
-  return data.user
-})
+const initialUser = JSON.parse(localStorage.getItem("user")) || null;
 
-export const login = createAsyncThunk('auth/login', async (payload) => {
-  const { data } = await api.post('/auth/login', payload)
-  return data.user
-})
-
-export const register = createAsyncThunk('auth/register', async (payload) => {
-  const { data } = await api.post('/auth/register', payload)
-  return data.user
-})
-
-export const logout = createAsyncThunk('auth/logout', async () => {
-  await api.post('/auth/logout')
-})
-
-const slice = createSlice({
-  name: 'auth',
-  initialState: { user: null, status: 'idle' },
-  reducers: {},
-  extraReducers: (b) => {
-    b.addCase(fetchMe.fulfilled, (s, a) => { s.user = a.payload })
-     .addCase(login.fulfilled, (s, a) => { s.user = a.payload })
-     .addCase(register.fulfilled, (s, a) => { s.user = a.payload })
-     .addCase(logout.fulfilled, (s) => { s.user = null })
+const authSlice = createSlice({
+  name: "auth",
+  initialState: {
+    user: initialUser
+  },
+  reducers: {
+    login(state, action) {
+      state.user = action.payload;
+      localStorage.setItem("user", JSON.stringify(action.payload));
+    },
+    logout(state) {
+      state.user = null;
+      localStorage.removeItem("user");
+    },
+    updateUser(state, action) {
+      state.user = { ...state.user, ...action.payload };
+      localStorage.setItem("user", JSON.stringify(state.user));
+    }
   }
-})
+});
 
-export default slice.reducer
+export const { login, logout, updateUser } = authSlice.actions;
+export default authSlice.reducer;

@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "id": "2196",
+      "title": "fanta",
+      "cost": 40,
+      "price": 50,
+      "stock": 100,
+      "category": "Drinks",
+      "subCategory": "Water",
+      "images": [
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291115/od0lbsisvgwbjsiklrrh.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291119/cleplmwlmw082wotdmjd.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291123/sjgy0qgsxmwkfulahybn.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291131/jchu1igetd5qaxwjjivh.jpg"
+      ],
+      "desc": "",
+      "profit": 10,
+      "image": "https://res.cloudinary.com/dci84sugw/image/upload/v1763291115/od0lbsisvgwbjsiklrrh.jpg",
+      "gallery": [
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291119/cleplmwlmw082wotdmjd.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291123/sjgy0qgsxmwkfulahybn.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763291131/jchu1igetd5qaxwjjivh.jpg"
+      ],
+      "likes": 0,
+      "views": 1
+    },
+    {
+      "id": "57db",
+      "title": "computer",
+      "cost": 400,
+      "price": 450,
+      "stock": 5,
+      "category": "Electronics",
+      "subCategory": "Laptop",
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763292918/wwdts6rc327bg1vu9pbp.jpg",
+          "isMain": true
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763292928/g2s3hdz17nyc8gzhchac.jpg",
+          "isMain": false
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763292924/lomixv61vpkuycf7dtnu.png",
+          "isMain": false
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763292932/iqr5brgzw1u4sw0nzv95.jpg",
+          "isMain": false
+        }
+      ],
+      "desc": "\nWhat is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nWhy do we use it?\n\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\nWhere does it come from?\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "profit": 50,
+      "image": "https://res.cloudinary.com/dci84sugw/image/upload/v1763292918/wwdts6rc327bg1vu9pbp.jpg",
+      "gallery": [
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763292928/g2s3hdz17nyc8gzhchac.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763292924/lomixv61vpkuycf7dtnu.png",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763292932/iqr5brgzw1u4sw0nzv95.jpg"
+      ],
+      "views": 1
+    },
+    {
+      "id": "a435",
+      "title": "Cola",
+      "cost": 40,
+      "price": 50,
+      "stock": 10,
+      "category": "Drinks",
+      "subCategory": "Juice",
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763388904/qdqeax0ihbxh08ozc1os.jpg",
+          "isMain": true
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763388908/betjgamguw0tqkczhtcs.jpg",
+          "isMain": false
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763388912/jaq3gmpc1l5recbhazcc.jpg",
+          "isMain": false
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763388919/gm3z1nin1i9cazmazjyh.jpg",
+          "isMain": false
+        }
+      ],
+      "desc": "\nWhat is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n",
+      "profit": 10,
+      "image": "https://res.cloudinary.com/dci84sugw/image/upload/v1763388904/qdqeax0ihbxh08ozc1os.jpg",
+      "gallery": [
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763388908/betjgamguw0tqkczhtcs.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763388912/jaq3gmpc1l5recbhazcc.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763388919/gm3z1nin1i9cazmazjyh.jpg"
+      ],
+      "views": 1
+    },
+    {
+      "id": "6c99",
+      "title": "Arc cola",
+      "cost": 40,
+      "price": 50,
+      "stock": 100,
+      "category": "Drinks",
+      "subCategory": "Water",
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763390518/tmx9vkj0odciftrfptnr.jpg",
+          "isMain": true
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763390521/fufixndhrzrypxho0gn5.jpg",
+          "isMain": false
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763390525/b6pydbwlelc7jw9wnpzp.jpg",
+          "isMain": false
+        },
+        {
+          "url": "https://res.cloudinary.com/dci84sugw/image/upload/v1763390532/ydv9ba4yte8xy2xy450b.jpg",
+          "isMain": false
+        }
+      ],
+      "desc": "\nWhat is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n",
+      "Size": [
+        "1",
+        "0.5",
+        "1.5"
+      ],
+      "profit": 10,
+      "image": "https://res.cloudinary.com/dci84sugw/image/upload/v1763390518/tmx9vkj0odciftrfptnr.jpg",
+      "gallery": [
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763390521/fufixndhrzrypxho0gn5.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763390525/b6pydbwlelc7jw9wnpzp.jpg",
+        "https://res.cloudinary.com/dci84sugw/image/upload/v1763390532/ydv9ba4yte8xy2xy450b.jpg"
+      ],
+      "views": 1
+    }
+  ]
+}

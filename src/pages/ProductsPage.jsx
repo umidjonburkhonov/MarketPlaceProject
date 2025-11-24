@@ -8,6 +8,7 @@ import { FiFilter } from 'react-icons/fi'
 
 export default function ProductsPage() {
     const dispatch = useDispatch()
+
     const navigate = useNavigate()
     const loaderRef = useRef(null)
 
@@ -19,9 +20,10 @@ export default function ProductsPage() {
 
     const visibleProducts = filteredItems.slice(0, visibleCount)
 
-    // Infinite scroll
+    // Infinite Scroll
     useEffect(() => {
         if (loading) return
+
         const observer = new IntersectionObserver(
             (entries) => {
                 if (entries[0].isIntersecting && visibleCount < filteredItems.length) {
@@ -34,18 +36,21 @@ export default function ProductsPage() {
             },
             { threshold: 1.0 }
         )
+
         if (loaderRef.current) observer.observe(loaderRef.current)
+
         return () => observer.disconnect()
     }, [visibleCount, filteredItems.length, loading])
 
-    // Reset scroll count when filter changes
+    // Reset when filteredItems change
     useEffect(() => {
         setVisibleCount(12)
     }, [filteredItems])
 
     return (
         <div className="min-h-screen flex bg-gray-50 dark:bg-gray-900">
-            {/* Desktop Sidebar */}
+
+            {/* ---- DESKTOP SIDEBAR ---- */}
             <div className="hidden md:block w-72 border-r border-gray-200 dark:border-gray-700">
                 <FilterSidebar
                     onPriceChange={(range) => dispatch(setPriceRange(range))}
@@ -53,9 +58,10 @@ export default function ProductsPage() {
                 />
             </div>
 
-            {/* Main Section */}
+            {/* ---- MAIN ---- */}
             <main className="flex-1 p-5 sm:p-8">
-                {/* Filter Button (Mobile) */}
+
+                {/* Mobile Filter Button */}
                 <div className="md:hidden flex justify-end mb-4">
                     <button
                         onClick={() => setIsFilterOpen(true)}
@@ -71,17 +77,8 @@ export default function ProductsPage() {
                         : 'No products found'}
                 </h2>
 
-                {/* Product Grid */}
-                <div
-                    className="
-            grid 
-            grid-cols-2 
-            sm:grid-cols-3 
-            md:grid-cols-4 
-            xl:grid-cols-6 
-            gap-4 sm:gap-5 lg:gap-6
-          "
-                >
+                {/* ---- GRID ---- */}
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6 gap-4 sm:gap-5 lg:gap-6">
                     {visibleProducts.map((item) => (
                         <div
                             key={item.id}
@@ -93,7 +90,7 @@ export default function ProductsPage() {
                     ))}
                 </div>
 
-                {/* Infinite Loader */}
+                {/* ---- INFINITE LOADER ---- */}
                 <div ref={loaderRef} className="flex justify-center py-6">
                     {loading && (
                         <div className="flex items-center gap-2 text-gray-600 dark:text-gray-300">
@@ -108,18 +105,18 @@ export default function ProductsPage() {
                 )}
             </main>
 
-            {/* Mobile Filter Modal */}
+            {/* ---- MOBILE FILTER ---- */}
             {isFilterOpen && (
                 <div className="fixed inset-0 z-50 flex" onClick={() => setIsFilterOpen(false)}>
                     <div className="flex-1 bg-black/40 transition-opacity duration-300" />
+
                     <div
                         className="w-[80%] h-full bg-white dark:bg-gray-800 shadow-xl overflow-auto transform transition-transform duration-300"
                         onClick={(e) => e.stopPropagation()}
                     >
                         <div className="flex justify-between items-center p-4 border-b border-gray-200 dark:border-gray-700">
-                            <h3 className="font-semibold text-gray-800 dark:text-gray-100">
-                                Filters
-                            </h3>
+                            <h3 className="font-semibold text-gray-800 dark:text-gray-100">Filters</h3>
+
                             <button
                                 onClick={() => setIsFilterOpen(false)}
                                 className="text-sm px-3 py-1 rounded-md bg-blue-600 text-white hover:bg-blue-700 transition"

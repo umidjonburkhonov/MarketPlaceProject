@@ -27,6 +27,8 @@ export default function Header() {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState([])
 
+  const authUser = useSelector((s) => s.auth.user)
+
   // Scroll shadow effect
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 20)
@@ -63,6 +65,7 @@ export default function Header() {
     { label: t('products') || 'Products', path: '/products' },
     { label: t('about') || 'About', path: '/about' },
     { label: t('contact') || 'Contact', path: '/contact' },
+    { label: "admin", path: "/admin" }
   ]
 
   return (
@@ -104,14 +107,14 @@ export default function Header() {
             </button>
 
             {/* Language */}
-            <select
+            {/* <select
               onChange={changeLng}
               defaultValue={i18n.language}
               className="bg-transparent border border-white/30 text-xs rounded px-1.5 py-0.5 focus:outline-none"
             >
               <option value="uz">UZ</option>
               <option value="en">EN</option>
-            </select>
+            </select> */}
 
             {/* Wishlist */}
             <button
@@ -243,27 +246,87 @@ export default function Header() {
       </div>
 
       {/* ===== AUTH MODAL ===== */}
+      {/* ===== AUTH MODAL ===== */}
       {showAuth && (
         <div
           onClick={() => setShowAuth(false)}
-          className="fixed inset-0 bg-black/40 z-50 flex justify-center items-center"
+          className="fixed inset-0 bg-black/40 backdrop-blur-sm z-50 flex justify-center items-center"
         >
           <div
             onClick={(e) => e.stopPropagation()}
-            className="bg-white rounded-xl shadow-lg w-[90%] sm:w-[400px] p-6 text-center"
+            className="bg-white rounded-2xl shadow-xl w-[90%] max-w-sm p-5 relative"
           >
-            <h3 className="text-lg font-semibold text-gray-800 mb-4">Welcome</h3>
-            <div className="flex flex-col gap-3">
-              <button className="w-full py-2 bg-brand-primary text-white rounded-md hover:bg-brand-accent transition">
-                Sign In
-              </button>
-              <button className="w-full py-2 border border-gray-300 rounded-md hover:bg-gray-100 transition">
-                Create Account
-              </button>
-            </div>
+            {/* Close button */}
+            <button
+              onClick={() => setShowAuth(false)}
+              className="absolute top-3 right-3 text-gray-400 hover:text-gray-600"
+            >
+              ✕
+            </button>
+
+            {authUser ? (
+              // ✅ USER LOGGED IN
+              <div className="flex flex-col items-center text-center gap-4 mt-2">
+                {/* Avatar */}
+                <div className="w-14 h-14 rounded-full bg-brand-primary/10 flex items-center justify-center text-brand-primary font-semibold text-xl">
+                  {authUser.name?.[0]?.toUpperCase() || "U"}
+                </div>
+
+                <div>
+                  <p className="text-sm text-gray-500">Logged in as</p>
+                  <p className="font-semibold text-gray-800">
+                    {authUser.name} {authUser.surname}
+                  </p>
+                  {authUser.email && (
+                    <p className="text-xs text-gray-500 mt-1">{authUser.email}</p>
+                  )}
+                </div>
+
+                <button
+                  onClick={() => {
+                    setShowAuth(false)
+                    navigate("/profile")
+                  }}
+                  className="w-full py-2.5 bg-brand-primary text-white rounded-lg hover:bg-brand-accent transition text-sm font-medium"
+                >
+                  My Profile
+                </button>
+              </div>
+            ) : (
+              // ❌ NOT LOGGED IN
+              <div className="flex flex-col gap-4 mt-2">
+                <div className="text-center">
+                  <h3 className="text-lg font-semibold text-gray-800">Account</h3>
+                  <p className="text-xs text-gray-500 mt-1">
+                    Continue with your account or create a new one
+                  </p>
+                </div>
+
+                <button
+                  onClick={() => {
+                    setShowAuth(false)
+                    navigate("/login")
+                  }}
+                  className="w-full py-2.5 bg-brand-primary text-white rounded-lg hover:bg-brand-accent transition text-sm font-medium"
+                >
+                  Sign In
+                </button>
+
+                <button
+                  onClick={() => {
+                    setShowAuth(false)
+                    navigate("/register")
+                  }}
+                  className="w-full py-2.5 border border-gray-300 rounded-lg hover:bg-gray-100 transition text-sm font-medium"
+                >
+                  Create Account
+                </button>
+              </div>
+            )}
           </div>
         </div>
       )}
+
     </>
   )
 }

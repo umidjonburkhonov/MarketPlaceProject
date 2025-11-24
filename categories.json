@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "name": "Food",
+      "subs": [
+        "National",
+        "Asian",
+        "Bread",
+        "Dessert"
+      ],
+      "fields": [],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Fast Food",
+      "subs": [
+        "Burger",
+        "Pizza",
+        "Hotdog",
+        "Sandwich"
+      ]
+    },
+    {
+      "name": "Drinks",
+      "subs": [
+        "Coffee",
+        "Tea",
+        "Juice",
+        "Water"
+      ],
+      "variants": [
+        {
+          "type": "Size",
+          "values": [
+            "0.5",
+            "1",
+            "1.5",
+            "2"
+          ]
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Groceries",
+      "subs": [
+        "Fruit",
+        "Vegetable",
+        "Meat",
+        "Dairy"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Electronics",
+      "subs": [
+        "Phone",
+        "Laptop",
+        "TV",
+        "Accessory"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Clothes",
+      "subs": [
+        "Men",
+        "Women",
+        "Kids",
+        "Sportswear"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Accessories",
+      "subs": [
+        "Watch",
+        "Glasses",
+        "Jewelry",
+        "Bag"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Books",
+      "subs": [
+        "Textbook",
+        "Fiction",
+        "Children",
+        "Science"
+      ]
+    }
+  ]
+}
